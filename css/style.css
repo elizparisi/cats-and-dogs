@@ -80,6 +80,7 @@ body {
   opacity: 1;
 }
 
+/* text says purr */
 .text {
   background-color: #000;
   color: white;
@@ -91,6 +92,7 @@ body {
     opacity: 0.3;
 }
 
+/* text says woof */
 .text-dog {
     background-color:#000;
     color: white;
